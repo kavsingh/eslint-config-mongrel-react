@@ -1,3 +1,3 @@
 module.exports = {
-  extends: [ './base', './rules/react' ].map(require.resolve),
+  extends: ['./base', './rules/react'].map(require.resolve),
 }

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mongrel-react",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Linting for my own React projects. Based on the good work of AirBnB.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint-config-airbnb-base": "11.x",
-    "eslint-config-mongrel": "kavsingh/eslint-config-mongrel.git#1.0.0"
+    "eslint-config-mongrel": "kavsingh/eslint-config-mongrel.git#2.0.0"
   },
   "peerDependencies": {
     "babel-eslint": "7.x",
@@ -28,7 +28,7 @@
   "devDependencies": {
     "babel-eslint": "7.x",
     "common-tags": "^1.4.0",
-    "eslint": "^3.17.1",
+    "eslint": "^3.19.0",
     "eslint-config-airbnb": "14.x",
     "eslint-import-resolver-webpack": "0.x",
     "eslint-plugin-babel": "4.x",
