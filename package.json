@@ -12,30 +12,30 @@
   "license": "ISC",
   "dependencies": {
     "eslint-config-airbnb-base": "11.x",
-    "eslint-config-mongrel": "kavsingh/eslint-config-mongrel.git#2.0.0"
+    "eslint-config-mongrel": "kavsingh/eslint-config-mongrel.git#2.0.1"
   },
   "peerDependencies": {
     "babel-eslint": "7.x",
     "eslint": "3.x",
-    "eslint-config-airbnb": "14.x",
+    "eslint-config-airbnb": "15.x",
     "eslint-import-resolver-webpack": "0.x",
     "eslint-plugin-babel": "4.x",
     "eslint-plugin-import": "2.x",
-    "eslint-plugin-jsx-a11y": "4.x",
+    "eslint-plugin-jsx-a11y": "5.x",
     "eslint-plugin-lodash-fp": "2.x",
-    "eslint-plugin-react": "6.x"
+    "eslint-plugin-react": "7.x"
   },
   "devDependencies": {
     "babel-eslint": "7.x",
     "common-tags": "^1.4.0",
     "eslint": "^3.19.0",
-    "eslint-config-airbnb": "14.x",
+    "eslint-config-airbnb": "15.x",
     "eslint-import-resolver-webpack": "0.x",
     "eslint-plugin-babel": "4.x",
     "eslint-plugin-import": "2.x",
-    "eslint-plugin-jsx-a11y": "4.x",
+    "eslint-plugin-jsx-a11y": "5.x",
     "eslint-plugin-lodash-fp": "2.x",
-    "eslint-plugin-react": "6.x",
+    "eslint-plugin-react": "7.x",
     "tape": "^4.6.3"
   }
 }
