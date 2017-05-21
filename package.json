@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mongrel-react",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "Linting for my own React projects. Based on the good work of AirBnB.",
   "main": "index.js",
   "scripts": {
