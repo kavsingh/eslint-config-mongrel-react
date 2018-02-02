@@ -444,9 +444,9 @@ eslint-config-airbnb@^16.1.0:
   dependencies:
     eslint-config-airbnb-base "^12.1.0"
 
-eslint-config-mongrel@kavsingh/eslint-config-mongrel.git#3.4.1:
-  version "3.4.1"
-  resolved "https://codeload.github.com/kavsingh/eslint-config-mongrel/tar.gz/2fc8996493c2619d3ef7a22cabbd40dc476d6c2f"
+eslint-config-mongrel@kavsingh/eslint-config-mongrel.git#3.4.2:
+  version "3.4.2"
+  resolved "https://codeload.github.com/kavsingh/eslint-config-mongrel/tar.gz/c786ff2a7f39d158fec006965f75ee9258cfa658"
 
 eslint-import-resolver-node@^0.3.1:
   version "0.3.1"
@@ -493,9 +493,9 @@ eslint-plugin-jsx-a11y@^6.0.3:
     emoji-regex "^6.1.0"
     jsx-ast-utils "^2.0.0"
 
-eslint-plugin-react@^7.6.0:
-  version "7.6.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.6.0.tgz#351651188c74c5b2fecc2717e3936b7207baa728"
+eslint-plugin-react@^7.6.1:
+  version "7.6.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.6.1.tgz#5d0e908be599f0c02fbf4eef0c7ed6f29dff7633"
   dependencies:
     doctrine "^2.0.2"
     has "^1.0.1"

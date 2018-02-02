@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mongrel-react",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Linting for my own React projects. Based on the good work of AirBnB.",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "eslint-plugin-babel": "^4.1.2",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.6.0"
+    "eslint-plugin-react": "^7.6.1"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
@@ -30,7 +30,7 @@
     "eslint-plugin-babel": "^4.1.2",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.6.0",
+    "eslint-plugin-react": "^7.6.1",
     "tape": "^4.8.0"
   }
 }
